@@ -17,17 +17,6 @@ A Java Swing-based Library Management System integrated with MySQL using JDBC. F
 * **JDBC**
 
 
-## Project Structure
-
-Library-Management-System/
-├── DBConnection.java
-├── LoginFrame.java
-├── LibraryManagement.java
-├── Main.java
-├── mysql-connector-j-8.3.0.jar
-└── README.md
-
-
 ## Setup
 1. Install **Java JDK** and **MySQL**
 2. Create a MySQL database and required tables (`users`, `books`)
