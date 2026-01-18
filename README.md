@@ -36,7 +36,7 @@ Library-Management-System/
 5. Run `Main.java`
 
 
-## Future Scop
+## Future Scope
 * Password encryption
 * Search & filter
 * Book issue/return module
